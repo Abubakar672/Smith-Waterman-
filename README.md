@@ -26,7 +26,7 @@ Use the Smith Waterman algorithm to align two sequences: s1 and s2. Assume that 
 
 * Clone this Repo
 ```bash
-$ git clone https://github.com/Abubakar672/Needleman-Wunsch.git
+$ git clone https://github.com/Abubakar672/Smith-Waterman.git
 ```
 
 ### Author
