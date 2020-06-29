@@ -19,7 +19,7 @@ Please consider following this project's authors, [Abubakar Mujahid](https://git
 
 
 
-Use the Needleman-Wunsch algorithm to align two sequences: s1 and s2. Assume that a match = +2, mismatch = -2, gap = -2
+Use the Smith Waterman algorithm to align two sequences: s1 and s2. Assume that a match = +2, mismatch = -2, gap = -2
 
 
 ### This application is tested on Windows Linux and on macOS*
@@ -50,4 +50,4 @@ $ git clone https://github.com/Abubakar672/Needleman-Wunsch.git
 Copyright © 2020, [Abubakar Mujahid](https://github.com/Abubakar672).
 Released under the [MIT License](LICENSE).
 
-Use the Needleman-Wunsch algorithm to align two sequences: s1 and s2. Assume that a match = +2, mismatch = -2, gap = -2
+Use the Smith Waterman algorithm to align two sequences: s1 and s2. Assume that a match = +2, mismatch = -2, gap = -2
